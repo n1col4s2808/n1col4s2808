@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👨🏼‍💻 Olá! Eu sou o Nicolas Santos
+**Desenvolvedor Back-end**
 
-<!--
-**n1col4s2808/n1col4s2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋🏼‍♂️Sou Nicolas Santos, tenho 19 anos e moro em São Paulo
 
-Here are some ideas to get you started:
+🎓Atualmente estou no 3º semestre de Análise e Desenvolvimento de Sistemas no Centro Universitário Eniac.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡No momento estou focando nos estudos em Python
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolassantosfaria/)
+
+
+---
+
+## 🤖 Linguagens e Tecnologias
+
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="40px"
+style="padding-right: 10px"
+src= 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'/>
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="40px"
+style="padding-right: 10px"
+src= 'https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'/> 
+
+<br/>
+<br/>
+
+---
+### 📊 Estatísticas
+
+<div align="center">
+  <img 
+  src="https://streak-stats.demolab.com?user=n1col4s2808&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=30&order=3" height="" alt="streak graph"  />
+</div>
